@@ -1,5 +1,14 @@
 {
+<<<<<<< HEAD
   "name": "slab1_backend2",
+=======
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.12.1",
+    "react-router-dom": "^7.3.0"
+  },
+  "name": "codex-intern",
+>>>>>>> 651d6bcc935aa2d4f3a138eabee801d680080a9d
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
